@@ -1,4 +1,4 @@
-# Covid19_Analysis
+# Covid19-Analysis
 # Project Overview
 This project is an Exploratory Data Analysis (EDA) of the COVID-19 pandemic using data from various countries, aimed at understanding the trends in the spread, mortality, and recovery rates of the virus during the early phases of the pandemic. This project was undertaken as a part of my coursework for the "Introduction to Data Science" course in the first semester. The steps taken in the project were directly based on the coursework requirements and may not represent a fully comprehensive approach. 
 
